@@ -1,10 +1,10 @@
 <?php
 
-namespace HaelioMarcio\GoogleCalendar\Tests;
+namespace haeliomarcio\GoogleCalendar\Tests;
 
 use Mockery\Adapter\Phpunit\MockeryPHPUnitIntegration;
 use Orchestra\Testbench\TestCase as OrchestraTestCase;
-use HaelioMarcio\GoogleCalendar\GoogleCalendarServiceProvider;
+use haeliomarcio\GoogleCalendar\GoogleCalendarServiceProvider;
 
 abstract class TestCase extends OrchestraTestCase
 {

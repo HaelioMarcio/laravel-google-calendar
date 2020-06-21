@@ -1,8 +1,8 @@
 <?php
-// namespace HaelioMarcio;
+// namespace haeliomarcio;
 // require './vendor/autoload.php';
 
-// use HaelioMarcio\GoogleCalendar\Event;
+// use haeliomarcio\GoogleCalendar\Event;
 // use Carbon\Carbon;
 
 // $event = new Event();

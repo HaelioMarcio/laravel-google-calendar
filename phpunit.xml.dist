@@ -10,7 +10,7 @@
          processIsolation="true"
          stopOnFailure="false">
     <testsuites>
-        <testsuite name="HaelioMarcio Test Suite">
+        <testsuite name="haeliomarcio Test Suite">
             <directory>tests</directory>
         </testsuite>
     </testsuites>

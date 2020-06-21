@@ -1,6 +1,6 @@
 <?php
 
-namespace HaelioMarcio\GoogleCalendar\Exceptions;
+namespace haeliomarcio\GoogleCalendar\Exceptions;
 
 use Exception;
 

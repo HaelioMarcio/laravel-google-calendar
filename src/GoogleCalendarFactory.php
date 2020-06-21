@@ -1,6 +1,6 @@
 <?php
 
-namespace HaelioMarcio\GoogleCalendar;
+namespace haeliomarcio\GoogleCalendar;
 
 use Google_Client;
 use Google_Service_Calendar;

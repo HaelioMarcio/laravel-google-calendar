@@ -1,6 +1,6 @@
 <?php
 
-namespace HaelioMarcio\GoogleCalendar;
+namespace haeliomarcio\GoogleCalendar;
 
 use Illuminate\Support\Facades\Facade;
 
