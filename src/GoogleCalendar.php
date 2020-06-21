@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\GoogleCalendar;
+namespace HaelioMarcio\GoogleCalendar;
 
 use Carbon\Carbon;
 use Carbon\CarbonInterface;

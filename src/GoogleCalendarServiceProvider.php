@@ -1,9 +1,9 @@
 <?php
 
-namespace Spatie\GoogleCalendar;
+namespace HaelioMarcio\GoogleCalendar;
 
 use Illuminate\Support\ServiceProvider;
-use Spatie\GoogleCalendar\Exceptions\InvalidConfiguration;
+use HaelioMarcio\GoogleCalendar\Exceptions\InvalidConfiguration;
 
 class GoogleCalendarServiceProvider extends ServiceProvider
 {

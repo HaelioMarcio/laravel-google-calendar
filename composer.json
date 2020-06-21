@@ -1,8 +1,8 @@
 {
-    "name": "spatie/laravel-google-calendar",
+    "name": "HaelioMarcio/laravel-google-calendar",
     "description": "Manage events on a Google Calendar",
     "keywords": [
-        "spatie",
+        "HaelioMarcio",
         "calendar",
         "google",
         "event",
@@ -32,12 +32,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Spatie\\GoogleCalendar\\": "src"
+            "HaelioMarcio\\GoogleCalendar\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Spatie\\GoogleCalendar\\Tests\\": "tests"
+            "HaelioMarcio\\GoogleCalendar\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -46,10 +46,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Spatie\\GoogleCalendar\\GoogleCalendarServiceProvider"
+                "HaelioMarcio\\GoogleCalendar\\GoogleCalendarServiceProvider"
             ],
             "aliases": {
-                "GoogleCalendar": "Spatie\\GoogleCalendar\\GoogleCalendarFacade"
+                "GoogleCalendar": "HaelioMarcio\\GoogleCalendar\\GoogleCalendarFacade"
             }
         }
     },
